@@ -1,0 +1,5 @@
+var searchIndex = JSON.parse('{\
+"args":{"doc":"","t":[3,11,11,12,11,11,12,11,12,11,11,11],"n":["Args","borrow","borrow_mut","flag","from","into","ipaddr","new","threads","try_from","try_into","type_id"],"q":["args","","","","","","","","","","",""],"d":["Args struct for the command line arguments of the program","","","","","","","Returns a struct with a valid flag, IPv4 or IPv6 Address, …","","","",""],"i":[0,1,1,1,1,1,1,1,1,1,1,1],"f":[null,[[]],[[]],null,[[]],[[]],null,[[],[["result",4,["str"]],["str",15]]],null,[[],["result",4]],[[],["result",4]],[[],["typeid",3]]],"p":[[3,"Args"]]},\
+"tcp_port_scanner":{"doc":"Mutlithreaded TCP port scanner","t":[5],"n":["scan"],"q":["tcp_port_scanner"],"d":["Function used to scan a port Returns a port number to the …"],"i":[0],"f":[[[["sender",3,["u16"]],["u16",15],["ipaddr",4]]]],"p":[]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};

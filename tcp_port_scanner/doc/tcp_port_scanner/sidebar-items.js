@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["scan","Function used to scan a port Returns a port number to the thread being used"]]});
